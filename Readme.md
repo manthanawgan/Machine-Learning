@@ -1,7 +1,7 @@
 ## Machine-Learning
 This repository contains implementations of various Machine learning algorithms along with some Projects \
 
-## Project Structure
+## Repository Structure
 
 ### Supervised-learning
 - #### Classification
