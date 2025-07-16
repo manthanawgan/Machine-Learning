@@ -1,5 +1,5 @@
 ## Machine-Learning
-This repository contains implementations of various Machine learning algorithms along with some Projects \
+This repository contains implementations of various Machine learning algorithms along with some Projects
 
 ## Repository Structure
 
