@@ -33,3 +33,7 @@ class SGD(nn.Module):
             if param.grad is not None:
                 param.grad.zero_()
 
+
+    def configure_optimizer(self):
+        return SGD([self.w, self.b], self.learning_rate)
+    
