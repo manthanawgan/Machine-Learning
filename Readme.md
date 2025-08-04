@@ -3,7 +3,7 @@ This repository contains implementations of various Machine learning algorithms 
 
 ## Repository Structure
 
-### Supervised-learning
+### Supervised-learning (almost done)
 - #### Classification
     - [decision-tree](/supervised-learning/Classification/decision_tree.ipynb)
     - [KNN](/supervised-learning/Classification/k-nearest_neighbors.ipynb)
@@ -21,7 +21,7 @@ This repository contains implementations of various Machine learning algorithms 
     - [Random-forest](/supervised-learning/regression/random_forest_regressor.ipynb)
     - [Support-vector-regressor](/supervised-learning/regression/support_vector_regression.ipynb)
 
-### Unsupervised-learning
+### Unsupervised-learning (not started yet)
 - #### Association Rule Learning
     - [Apriori-algorithm](/unsupervised-learning/Association%20Rule%20Learning/Apriori_algorithm.ipynb)
     - [Eclat-algorithm](/unsupervised-learning/Association%20Rule%20Learning/Eclat_algorithm.ipynb)
